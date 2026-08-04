@@ -1,0 +1,14 @@
+let str1 = "Домашняя работа по итогам урока 1";
+console.log(str1); // Выводим строку в консоль
+
+let name = "Иван";
+console.log('Имя: ' + name); // Выводим имя в консоль
+
+let age = 25;
+console.log('Возраст: ' + age); // Выводим возраст в консоль
+
+let isMarried = false;
+console.log('Статус брака: ' + isMarried); // Выводим статус брака в консоль
+
+
+console.log( (name) + " " + (age) + " " + (isMarried), (typeof name), (typeof age), (typeof isMarried) ); // Выводим все переменные и их типы в консоль 
